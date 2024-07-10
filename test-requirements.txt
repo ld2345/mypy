@@ -19,3 +19,4 @@ py>=1.5.2
 typed_ast>=1.5.4,<2; python_version>='3.8'
 setuptools!=50
 six
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
